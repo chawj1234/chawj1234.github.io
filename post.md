@@ -1,13 +1,17 @@
-https://chawj1234.github.io/post
+___<https://chawj1234.github.io/post>___
 
 
-github.io 블로그  첫 글
-====================
-github.io 블로그 첫 글 작성해봅니다.
-------------------------------
+## github.io 블로그  첫 글
+
+	"많이 보고 많이 겪고 많이 공부하는 것은 배움의 세 기둥이다."
+	
+		 -벤자민 디즈라엘리-
+	
 categories:
-  * Blog
+* study
+
+
 tags:
-  * Blog
-이 글의 제목은 {{ page.title }}이고
-마지막 수정 시간은 {{ page.last_modified_at }}이다.
+* study
+
+
